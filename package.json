@@ -6,7 +6,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmncit/dpatterna"
+    "url": "git+https://github.com/mmncit/dpatterna.git"
   },
   "devDependencies": {
     "@types/crypto-js": "^4.0.2",
@@ -52,5 +52,12 @@
     "svelte": "^3.38.3",
     "page": "^1.11.6",
     "three": "0.128.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mmncit/dpatterna/issues"
+  },
+  "homepage": "https://github.com/mmncit/dpatterna#readme",
+  "main": ".prettier.js",
+  "keywords": [],
+  "license": "ISC"
 }
